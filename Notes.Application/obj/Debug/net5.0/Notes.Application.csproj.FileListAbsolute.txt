@@ -1,0 +1,15 @@
+D:\pet-src\test-cqrs\Notes.Application\bin\Debug\net5.0\Notes.Application.deps.json
+D:\pet-src\test-cqrs\Notes.Application\bin\Debug\net5.0\Notes.Application.dll
+D:\pet-src\test-cqrs\Notes.Application\bin\Debug\net5.0\ref\Notes.Application.dll
+D:\pet-src\test-cqrs\Notes.Application\bin\Debug\net5.0\Notes.Application.pdb
+D:\pet-src\test-cqrs\Notes.Application\bin\Debug\net5.0\Notes.Domain.dll
+D:\pet-src\test-cqrs\Notes.Application\bin\Debug\net5.0\Notes.Domain.pdb
+D:\pet-src\test-cqrs\Notes.Application\obj\Debug\net5.0\Notes.Application.csprojAssemblyReference.cache
+D:\pet-src\test-cqrs\Notes.Application\obj\Debug\net5.0\Notes.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\pet-src\test-cqrs\Notes.Application\obj\Debug\net5.0\Notes.Application.AssemblyInfoInputs.cache
+D:\pet-src\test-cqrs\Notes.Application\obj\Debug\net5.0\Notes.Application.AssemblyInfo.cs
+D:\pet-src\test-cqrs\Notes.Application\obj\Debug\net5.0\Notes.Application.csproj.CoreCompileInputs.cache
+D:\pet-src\test-cqrs\Notes.Application\obj\Debug\net5.0\Notes.Application.csproj.CopyComplete
+D:\pet-src\test-cqrs\Notes.Application\obj\Debug\net5.0\Notes.Application.dll
+D:\pet-src\test-cqrs\Notes.Application\obj\Debug\net5.0\ref\Notes.Application.dll
+D:\pet-src\test-cqrs\Notes.Application\obj\Debug\net5.0\Notes.Application.pdb

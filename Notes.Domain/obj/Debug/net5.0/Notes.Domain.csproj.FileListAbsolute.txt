@@ -1,0 +1,12 @@
+D:\pet-src\test-cqrs\Notes.Domain\bin\Debug\net5.0\Notes.Domain.deps.json
+D:\pet-src\test-cqrs\Notes.Domain\bin\Debug\net5.0\Notes.Domain.dll
+D:\pet-src\test-cqrs\Notes.Domain\bin\Debug\net5.0\ref\Notes.Domain.dll
+D:\pet-src\test-cqrs\Notes.Domain\bin\Debug\net5.0\Notes.Domain.pdb
+D:\pet-src\test-cqrs\Notes.Domain\obj\Debug\net5.0\Notes.Domain.csprojAssemblyReference.cache
+D:\pet-src\test-cqrs\Notes.Domain\obj\Debug\net5.0\Notes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\pet-src\test-cqrs\Notes.Domain\obj\Debug\net5.0\Notes.Domain.AssemblyInfoInputs.cache
+D:\pet-src\test-cqrs\Notes.Domain\obj\Debug\net5.0\Notes.Domain.AssemblyInfo.cs
+D:\pet-src\test-cqrs\Notes.Domain\obj\Debug\net5.0\Notes.Domain.csproj.CoreCompileInputs.cache
+D:\pet-src\test-cqrs\Notes.Domain\obj\Debug\net5.0\Notes.Domain.dll
+D:\pet-src\test-cqrs\Notes.Domain\obj\Debug\net5.0\ref\Notes.Domain.dll
+D:\pet-src\test-cqrs\Notes.Domain\obj\Debug\net5.0\Notes.Domain.pdb

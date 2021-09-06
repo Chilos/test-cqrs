@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Notes.WepApi</name>
+    </assembly>
+    <members>
+        <member name="M:Notes.WepApi.Controllers.NoteController.GetAll(System.Threading.CancellationToken)">
+            <summary>
+            Gets the list of notes
+            </summary>
+            <remarks>
+            Sample request:
+            GET /note
+            </remarks>
+            <returns>Return <see cref="T:Notes.Application.Notes.Queries.GetNoteList.NoteListVm"/></returns>
+            <response code="200">Success</response>
+            <response code="401">If the user is unauthorized</response>
+        </member>
+        <member name="M:Notes.WepApi.Controllers.NoteController.Get(System.Guid,System.Threading.CancellationToken)">
+            <summary>
+            Gets the note by id
+            </summary>
+            <remarks>
+            Sample request:
+            GET /note/98C6CCFB-00A8-47B4-A23E-98BF9D5E6C5B
+            </remarks>
+            <param name="id">Note Id (guid)</param>
+            <param name="cancellationToken">CancellationToken object</param>
+            <returns>Return <see cref="T:Notes.Application.Notes.Queries.GetNoteDetails.NoteDetailsVm"/></returns>
+            <response code="200">Success</response>
+            <response code="401">If the user is unauthorized</response>
+        </member>
+        <member name="M:Notes.WepApi.Controllers.NoteController.Create(Notes.WepApi.Models.CreateNoteDto,System.Threading.CancellationToken)">
+            <summary>
+            Creates the note
+            </summary>
+            <remarks>
+            Sample request:
+            POST /note
+            {
+                title: "note title",
+                details: "note details"
+            }
+            </remarks>
+            <param name="dto">CreateNoteDto object</param>
+            <param name="cancellationToken">CancellationToken object</param>
+            <returns>Return id created note</returns>
+            <response code="200">Success</response>
+            <response code="401">If the user is unauthorized</response>
+        </member>
+        <member name="M:Notes.WepApi.Controllers.NoteController.Update(Notes.WepApi.Models.UpdateNoteDto,System.Threading.CancellationToken)">
+            <summary>
+            Updates the note
+            </summary>
+            <remarks>
+            Sample request:
+            PUT /note
+            {
+                id: "D4B3020F-F6F8-45ED-8B53-ACE8A75A5BFD"
+                title: "note title",
+                details: "note details"
+            }
+            </remarks>
+            <param name="dto">UpdateNoteDto object</param>
+            <param name="cancellationToken">CancellationToken object</param>
+            <response code="204">Success</response>
+            <response code="401">If the user is unauthorized</response>
+        </member>
+        <member name="M:Notes.WepApi.Controllers.NoteController.Delete(System.Guid,System.Threading.CancellationToken)">
+            <summary>
+            Deletes the note
+            </summary>
+            <remarks>
+            Sample request:
+            DELETE /note/98C6CCFB-00A8-47B4-A23E-98BF9D5E6C5B
+            </remarks>
+            <param name="id">Note Id (guid)</param>
+            <param name="cancellationToken">CancellationToken object</param>
+            <response code="204">Success</response>
+            <response code="401">If the user is unauthorized</response>
+        </member>
+    </members>
+</doc>
